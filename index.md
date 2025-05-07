@@ -2,9 +2,7 @@
 title: Welcome to my blog
 ---
 
-# My Journey!!
-
-# Welcome to My GitHub Pages Site
+# Welcome to My GitHub Pages blog site
 Hello! I'm Sudan23, a developer and teacher. This is my personal homepage created using GitHub Pages.
 
 ## About Me
